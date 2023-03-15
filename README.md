@@ -1,1 +1,0 @@
-# longest-arithmetic-sub-array-google-kickstart-problem
